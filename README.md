@@ -71,6 +71,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you have any questions or need further information, feel free to reach out:
 
-- **Email**: [your-email@example.com](mailto:sksanty0125@gmail.com)
-- **LinkedIn**: [Your LinkedIn Profile](www.linkedin.com/in/santhosh-kumar-22b152248)
-- **GitHub**: [https://github.com/your-github-username](https://github.com/Santhoshkumar0825)
+- **Email**: [sksanty0125@gmail.com](mailto:sksanty0125@gmail.com)
+- **LinkedIn**: [www.linkedin.com/in/santhosh-kumar-22b152248](www.linkedin.com/in/santhosh-kumar-22b152248)
+- **GitHub**: [[https://github.com/your-github-username](https://github.com/Santhoshkumar0825)]
