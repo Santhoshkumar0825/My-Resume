@@ -11,7 +11,6 @@ This repository contains my professional resume created using HTML and CSS. The 
 - [Usage](#usage)
 - [Customization](#customization)
 - [License](#license)
-- [Contact](#contact)
 
 ## Overview
 
@@ -66,11 +65,3 @@ To customize the content or appearance of the resume:
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-If you have any questions or need further information, feel free to reach out:
-
-- **Email**: [sksanty0125@gmail.com](mailto:sksanty0125@gmail.com)
-- **LinkedIn**: [www.linkedin.com/in/santhosh-kumar-22b152248](www.linkedin.com/in/santhosh-kumar-22b152248)
-- **GitHub**: [[https://github.com/your-github-username](https://github.com/Santhoshkumar0825)]
